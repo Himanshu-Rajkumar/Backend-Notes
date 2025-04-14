@@ -19,7 +19,7 @@ These are compiled from my learning journey with **Node.js**, **Express.js**, **
 
 ## 📂 PDF Notes
 
-Access the complete notes here: [📄 MERA_Backend_Notes.pdf](./MERA_Backend_notes_compressed)
+Access the complete notes here: [📄 MERA_Backend_Notes.pdf](.MERA_Backend_notes_compressed.pdf)
 
 > These notes are perfect for beginners and intermediate learners who want a strong foundation in backend development.
 
